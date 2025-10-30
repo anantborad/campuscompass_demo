@@ -25,10 +25,8 @@ This repository is a **college exploration app** demo showcasing a few UI screen
 - **Android SDK:** minSdk 24, targetSdk 35, compileSdk 36  
 - **State Management:** AndroidX ViewModel, LiveData  
 - **Navigation:** Jetpack Compose Navigation  
-- **Images & Fonts:** Coil Compose, Google Fonts  
-- **Dependency Injection:** Koin  
-- **Networking (Demo Placeholder):** Ktor  
-- **Database (Demo Placeholder):** Room  
+- **Images & Fonts:** Coil Compose, Google Fonts
+- **Networking (Serialization):** Ktor  
 - **Coroutines:** KotlinX Coroutines  
 - **Testing:** JUnit, AndroidX Test, Espresso  
 
