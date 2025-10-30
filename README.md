@@ -6,7 +6,7 @@
 [![Android SDK](https://img.shields.io/badge/Android%20SDK-36-brightgreen)](https://developer.android.com/studio)
 [![Demo](https://img.shields.io/badge/Demo-UI-blueviolet)](#screenshots--demo)
 
-Campus Compass is a **college exploration app** demo showcasing a few UI screens and components built with **Jetpack Compose** and **Material 3**. The full app includes backend logic and live API integration.
+This repository is a **college exploration app** demo showcasing a few UI screens and components built with **Jetpack Compose** and **Material 3**. The full app includes backend logic and live API integration.
 
 ---
 
