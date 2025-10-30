@@ -44,7 +44,7 @@ This repository is a **college exploration app** demo showcasing a few UI screen
 ---
 
 ## College Scorecard API
-Campus Compass uses the **U.S. Department of Education College Scorecard API** to provide accurate college data:
+Campus Compass uses the [**U.S. Department of Education College Scorecard API**](https://collegescorecard.ed.gov/) to provide accurate college data:
 
 - Admission rates  
 - Program offerings and relative student percentages  
