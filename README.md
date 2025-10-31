@@ -55,8 +55,7 @@ Campus Compass uses the [**U.S. Department of Education College Scorecard API**]
 
 ## 📸 Screenshots / Demo
 ![Favorites Screen](favorites_demo)
-![Financial Screen](financial demo.png)
-![Learn More Screen](learnmore_demo)
+![Financial Screen](https://github.com/anantborad/campuscompass_demo/blob/7eedaa4f97d257afed84944d798288950ca88d1e/financial%20demo.png)
 ![Results Screen Demo](results_demo)
 
 ---
